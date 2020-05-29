@@ -1,0 +1,28 @@
+{
+  "name": "messager",
+  "version": "1.0.0",
+  "description": "Messanger Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saefullohmaslul/messanger-bot.git"
+  },
+  "keywords": [
+    "messanger",
+    "bot"
+  ],
+  "author": "Saefulloh Maslul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saefullohmaslul/messanger-bot/issues"
+  },
+  "homepage": "https://github.com/saefullohmaslul/messanger-bot#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
